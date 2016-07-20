@@ -19,8 +19,5 @@ echo "Installing fedy..."
 
 dnf -y --nogpgcheck install fedy
 
-# Remove install script
-rm fedy-installer
-
 # Please report bugs at <http://github.com/folkswithhats/fedy/issues>
 # End of the Script
